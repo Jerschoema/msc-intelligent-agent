@@ -1,0 +1,5 @@
+
+url|restricted|captcha
+https://onlinelibrary.wiley.com/doi/full/10.1111/iwj.12175|no
+https://www.sciencedirect.com/science/article/abs/pii/S0039610905705727|yes|yes
+https://journals.lww.com/plasreconsurg/abstract/10.1097/prs.0b013e3182a3c11e~from-germ-theory-to-germ-therapy-skin-microbiota-chronic?redirectionsource=fulltextview|yes|no

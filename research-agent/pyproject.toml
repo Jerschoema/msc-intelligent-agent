@@ -1,0 +1,9 @@
+[project]
+name = "agent-project"
+version = "0.1.0"
+description = "A local Python agent project using LangGraph and Ollama-ready configuration."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,253 @@
+# fetched via web_fetch, status=ok, url=https://pmc.ncbi.nlm.nih.gov/articles/PMC7605502/
+
+Return to work following diagnosis of low-grade glioma: A nationwide matched cohort study - PMC
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Search…
+Search NCBI
+Primary site navigation
+Search
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+Search PMC Full-Text Archive
+Search in PMC
+Journal List
+User Guide
+PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Learn more:
+PMC Disclaimer
+|
+PMC Copyright Notice
+Neurology
+. 2020 Aug 18;95(7):e856–e866. doi:
+10.1212/WNL.0000000000009982
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Return to work following diagnosis of low-grade glioma
+A nationwide matched cohort study
+Isabelle Rydén
+Isabelle Rydén
+,
+MSc
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Isabelle Rydén
+1
+,
+Louise Carstam
+Louise Carstam
+,
+MD
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Louise Carstam
+1
+,
+Sasha Gulati
+Sasha Gulati
+,
+MD, PhD
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Sasha Gulati
+1
+,
+Anja Smits
+Anja Smits
+,
+MD, PhD
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Anja Smits
+1
+,
+Katharina S Sunnerhagen
+Katharina S Sunnerhagen
+,
+MD, PhD
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Katharina S Sunnerhagen
+1
+,
+Per Hellström
+Per Hellström
+,
+MSc, PhD
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Per Hellström
+1
+,
+Roger Henriksson
+Roger Henriksson
+,
+MD, PhD
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Roger Henriksson
+1
+,
+Jiri Bartek Jr
+Jiri Bartek Jr
+,
+MD
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Jiri Bartek Jr
+1
+,
+Øyvind Salvesen
+Øyvind Salvesen
+,
+MSc, PhD
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Øyvind Salvesen
+1
+,
+Asgeir Store Jakola
+Asgeir Store Jakola
+,
+MD, PhD
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+Find articles by
+Asgeir Store Jakola
+1,
+✉
+Author information
+Article notes
+Copyright and License information
+1
+From the Section of Clinical Neuroscience, Institute of Neuroscience and Physiology (I.R., L.C., A.S., K.S.S., P.H., A.S.J.), University of Gothenburg, Sahlgrenska Academy; Departments of Neurology (I.R., A.S., P.H.) and Neurosurgery (L.C., A.S.J.), Sahlgrenska University Hospital, Gothenburg, Sweden; Department of Neurosurgery (S.G., A.S.J.), St. Olavs University Hospital HF; Institute of Neuroscience (S.G.) and Department of Public Health and Nursing (Ø.S.), Norwegian University of Science and Technology, Trondheim, Norway; Department of Neuroscience (A.S.), Uppsala University; Department of Radiation Sciences & Oncology (R.H.), University of Umeå; Department of Neurosurgery (J.B.), Karolinska University Hospital; Departments of Neuroscience and Medicine (J.B.), Karolinska Institutet, Stockholm, Sweden; and Department of Neurosurgery (J.B.), Copenhagen University Hospital Rigshospitalet, Denmark.
+✉
+Correspondence
+Dr. Jakola
+jakola.asgeir@gu.se
+Go to
+Neurology.org/N
+for full disclosures. Funding information and disclosures deemed relevant by the authors, if any, are provided at the end of the article.
+✉
+Corresponding author.
+Received 2019 Aug 28; Accepted 2020 Jan 27.
+Copyright © 2020 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology.
+This is an open access article distributed under the terms of the
+Creative Commons Attribution License 4.0 (CC BY)
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+PMC Copyright notice
+PMCID: PMC7605502 PMID:
+32540938
+Abstract
+Objective
+Return-to-work (RTW) following diagnosis of infiltrative low-grade gliomas is unknown.
+Methods
+Swedish patients with histopathologic verified WHO grade II diffuse glioma diagnosed between 2005 and 2015 were included. Data were acquired from several Swedish registries. A total of 381 patients aged 18–60 were eligible. A matched control population (n = 1,900) was acquired. Individual data on sick leave, compensations, comorbidity, and treatments assigned were assessed. Predictors were explored using multivariable logistic regression.
+Results
+One year before surgery/index date, 88% of cases were working, compared to 91% of controls. The proportion of controls working remained constant, while patients had a rapid increase in sick leave approximately 6 months prior to surgery. After 1 and 2 years, respectively, 52% and 63% of the patients were working. Predictors for no RTW after 1 year were previous sick leave (odds ratio [OR] 0.92, 95% confidence interval [CI] 0.88–0.96,
+p
+< 0.001), older age (OR 0.96, 95% CI 0.94–0.99,
+p
+= 0.005), and lower functional level (OR 0.64 95% CI, 0.45–0.91
+p
+= 0.01). Patients receiving adjuvant treatment were less likely to RTW within the first year. At 2 years, biopsy (as opposed to resection), female sex, and comorbidity were also unfavorable, while age and adjuvant treatment were no longer significant.
+Conclusions
+Approximately half of patients RTW within the first year. Lower functional status, previous sick leave, older age, and adjuvant treatment were risk factors for no RTW at 1 year after surgery. Female sex, comorbidity, and biopsy only were also unfavorable for RTW at 2 years.
+Adult supratentorial WHO grade II diffuse low-grade gliomas (LGGs) are slow-growing primary brain tumors. LGG typically affect young adults in the middle of their life and career, and for the majority the disease presents with seizures only.
+1
+,
+2
+The slow growth allows for functional reorganization and patients usually have no visible or only minor functional disabilities at disease onset.
+3
+With active surgical and oncologic treatment, the median survival now exceeds 10 years following diagnosis.
+4
+–
+7
+It is frequently emphasized that not only longevity, but also the patients' overall functioning and quality of life are important.
+8
+Although permanent neurologic deficits due to treatment are less common,
+9
+patients report compromised health-related quality of life.
+10
+,
+11
+Similar to patients with other types of cancers, patients with LGG report problems with social functioning and fatigue, but with the additional burden of seizures and cognitive complaints.
+10
+Both the disease and the treatment may cause absence from work, but little is known concerning return to work (RTW) in patients with LGG.
+RTW constitutes an important part of getting back to a normal life.
+12
+–
+14
+Being able to work again is often a sign of successful rehabilitation and improved quality of life.
+15
+Although patients with LGG are frequently concerned about RTW in patient consultation prior to treatment decisions, RTW is an understudied aspect. Work status in patients with LGG has only been reported in smaller series.
+16
+–
+18
+The aim of this study was to study patterns of sick leave and explored predictors for RTW among patients with LGG in Sweden and compare this to a matched control group.
+Methods
+We used data from nationwide Swedish registries. Linking of registries was possible through the unique personal identification numbers for Swedish citizens. The used registries are described below, and definitions of variables derived from the registries are described in detail in
+table 1
+.
+Table 1.
+Definition of variables
+Open in a new tab
+Swedish Brain Tumor Registry
+The national Swedish Brain Tumor Registry (SBTR) is a regionally based registry of adult patients diagnosed with brain tumors carrying detailed information on tumor and patient characteristics. The level of coverage from the different regions has varied somewhat over time. In our study, a minimum registration rate of 80% was required to be included in the analysis at any given year for each region to provide representative population-based data. Registration rate was defined as the percentage of diagnoses in the SBTR that corresponds to diagnoses reported to the compulsory National Cancer Registry. Further details on the SBTR and definition of clinical variables in patients with LGG are available through our earlier work.
+19
+,
+20
+Data from SBTR was accessed October 21, 2016.
+Statistics Sweden
+Statistics Sweden (
+www.scb.se
+) is a government agency responsible for official and objective statistics for general information, investigation, and research in Sweden. We extracted data on education and disposable income. Educational level was graded according to the Swedish nomenclature for education.
+21
+Level of education was divided into 2 groups: basic to high school (SUN2000 grade 1 through 4) and higher education (SUN2000 grade 5 through 7). A matched cohort of 5 individuals for each case was obtained, with year of birth, sex, municipality of residence, and educational level used as matching criteria. All controls were unique. For 9 cases, the amount of controls was incomplete. Data from Statistics Sweden were accessed June 26, 2017.
+Swedish Social Insurance Agency
+The Social Insurance Agency (SIA) is a Swedish government agency that provides financial security in the event of illness. In Sweden, the employer provides the payment for the first 2 weeks of sick leave. Thereafter the SIA is responsible for the sickness benefit. SIA is responsible for holding official statistics on sick leave (temporary compensation) and disability compensation (for longer-lasting and permanent compensations, later referred to as permanent sick leave). Information provided was time periods with compensation (including the first 2 weeks reimbursed by the employer), type of compensation, and grade of compensation. The data from SIA were accessed January 31, 2018.
+National Board of Health and Welfare
+The National Board of Health and Welfare (NBHW) is the government agency responsible for developing statistics about health care in different registries. From the National Patient Registry (NPR), we received data on days of inpatient and outpatient visits, including diagnostic and procedural codes in the 2003–2016 period. Since 2001, this registry has been subject to mandatory reporting from both private and public hospitals but does not include primary care contacts. The NPR thus contains information about all contact with specialist health care with diagnoses coded according to ICD-10. The ICD-10 codes were used to classify comorbidity according to the Elixhauser comorbidity index.
+22
+,
+23
+Underreporting in the NPR has been estimated to be less than 1% according to the NBHW (
+www.socialstyrelsen.se
+). The national prescription registry was established July 1, 2005, with mandatory registration from start. From the prescription registry, we received information concerning type of drug according to the Anatomical Therapeutic Chemical classification system and date of dispensing in the period 1 year p

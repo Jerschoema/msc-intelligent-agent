@@ -1,0 +1,282 @@
+# fetched via web_fetch, status=ok, url=https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187298
+
+Is mindfulness research methodology improving over time? A systematic review | PLOS One
+Skip to main content
+Advertisement
+PLOS One
+Publish
+Submissions
+Getting Started
+Submission Guidelines
+Figures
+Tables
+Supporting Information
+LaTeX
+What We Publish
+Preprints
+Revising Your Manuscript
+Submit Now
+Calls for Papers
+Policies
+Best Practices in Research Reporting
+Human Subjects Research
+Animal Research
+Competing Interests
+Disclosure of Funding Sources
+Licenses and Copyright
+Data Availability
+Complementary Research
+Materials, Software and Code Sharing
+Ethical Publishing Practice
+Authorship
+Corrections, Expressions of Concern, and Retractions
+Manuscript Review and Publication
+Criteria for Publication
+Editorial and Peer Review Process
+Editor Center
+Guidelines for Reviewers
+Accepted Manuscripts
+Comments
+Submit Your Manuscript
+Discover a faster, simpler path to publishing in a high-quality journal.
+PLOS ONE
+promises fair, rigorous peer review, broad scope, and wide readership – a perfect fit for your research every time.
+Learn More
+Submit Now
+About
+Why Publish with PLOS ONE
+Journal Information
+Staff Editors
+Editorial Board
+Section Editors
+Advisory Groups
+Find and Read Articles
+Publishing Information
+Publication Fees
+Press and Media
+Contact
+Browse
+Search
+Search
+advanced search
+Browse Subject Areas
+?
+Click through the PLOS taxonomy to find articles in your field.
+For more information about PLOS Subject Areas, click
+here
+.
+Loading metrics
+Open Access
+Peer-reviewed
+Research Article
+Is mindfulness research methodology improving over time? A systematic review
+Simon B. Goldberg
+,
+Roles
+Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology, Project administration, Visualization, Writing – original draft, Writing – review & editing
+* E-mail:
+simon.goldberg@va.gov
+Affiliations
+VA Puget Sound Health Care System–Seattle Division, Seattle, Washington, United States of America, Center for Healthy Minds, University of Wisconsin—Madison, Madison, WI, United States of America, Department of Counseling Psychology, University of Wisconsin—Madison, Madison, WI, United States of America
+http://orcid.org/0000-0002-6888-0126
+⨯
+Raymond P. Tucker,
+Roles
+Data curation, Project administration, Writing – review & editing
+Affiliation
+Department of Psychology, Louisiana State University, Baton Rouge, LA, United States of America
+⨯
+Preston A. Greene,
+Roles
+Data curation, Project administration, Writing – review & editing
+Affiliation
+VA Puget Sound Health Care System–Seattle Division, Seattle, Washington, United States of America
+⨯
+Tracy L. Simpson,
+Roles
+Conceptualization, Methodology, Supervision, Writing – review & editing
+Affiliations
+VA Puget Sound Health Care System–Seattle Division, Seattle, Washington, United States of America, Center for Excellence in Substance Abuse Treatment & Education, VA Puget Sound Health Care System–Seattle Division, Seattle, Washington, United States of America
+⨯
+David J. Kearney,
+Roles
+Methodology, Writing – review & editing
+Affiliation
+VA Puget Sound Health Care System–Seattle Division, Seattle, Washington, United States of America
+⨯
+Richard J. Davidson
+Roles
+Conceptualization, Funding acquisition, Methodology, Supervision, Writing – review & editing
+Affiliations
+Center for Healthy Minds, University of Wisconsin—Madison, Madison, WI, United States of America, Department of Psychology, University of Wisconsin—Madison, Madison, WI, United States of America
+⨯
+Is mindfulness research methodology improving over time? A systematic review
+Simon B. Goldberg,
+Raymond P. Tucker,
+Preston A. Greene,
+Tracy L. Simpson,
+David J. Kearney,
+Richard J. Davidson
+x
+Published: October 31, 2017
+https://doi.org/10.1371/journal.pone.0187298
+Article
+Authors
+Metrics
+Comments
+Media Coverage
+Reader Comments
+Figures
+Figures
+Abstract
+Background
+Despite an exponential growth in research on mindfulness-based interventions, the body of scientific evidence supporting these treatments has been criticized for being of poor methodological quality.
+Objectives
+The current systematic review examined the extent to which mindfulness research demonstrated increased rigor over the past 16 years regarding six methodological features that have been highlighted as areas for improvement. These feature included using active control conditions, larger sample sizes, longer follow-up assessment, treatment fidelity assessment, and reporting of instructor training and intent-to-treat (ITT) analyses.
+Data sources
+We searched PubMed, PsychInfo, Scopus, and Web of Science in addition to a publically available repository of mindfulness studies.
+Study eligibility criteria
+Randomized clinical trials of mindfulness-based interventions for samples with a clinical disorder or elevated symptoms of a clinical disorder listed on the American Psychological Association’s list of disorders with recognized evidence-based treatment.
+Study appraisal and synthesis methods
+Independent raters screened 9,067 titles and abstracts, with 303 full text reviews. Of these, 171 were included, representing 142 non-overlapping samples.
+Results
+Across the 142 studies published between 2000 and 2016, there was no evidence for increases in any study quality indicator, although changes were generally in the direction of improved quality. When restricting the sample to those conducted in Europe and North America (continents with the longest history of scientific research in this area), an increase in reporting of ITT analyses was found. When excluding an early, high-quality study, improvements were seen in sample size, treatment fidelity assessment, and reporting of ITT analyses.
+Conclusions and implications of key findings
+Taken together, the findings suggest modest adoption of the recommendations for methodological improvement voiced repeatedly in the literature. Possible explanations for this and implications for interpreting this body of research and conducting future studies are discussed.
+Citation:
+Goldberg SB, Tucker RP, Greene PA, Simpson TL, Kearney DJ, Davidson RJ (2017) Is mindfulness research methodology improving over time? A systematic review. PLoS ONE 12(10): e0187298. https://doi.org/10.1371/journal.pone.0187298
+Editor:
+André Aleman, University of Groningen, NETHERLANDS
+Received:
+August 12, 2017;
+Accepted:
+October 17, 2017;
+Published:
+October 31, 2017
+This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the
+Creative Commons CC0
+public domain dedication.
+Data Availability:
+All relevant data are within the paper and its Supporting Information files.
+Funding:
+This work was supported by the National Center for Complementary and Alternative Medicine (NCCAM) P01AT004952 to RD and Mind and Life Institute Varela Award to SG. The NCCAM and Mind and Life Institute were not directly involved in study design; collection, analysis, or interpretation of data; in writing of the report; or in the decision to submit the article for publication. Any views, findings, conclusions, or recommendations expressed in this publication do not necessarily reflect those of the Mind & Life Institute.
+Competing interests:
+RD is the founder, president, and serves on the board of directors for the non-profit organization, Healthy Minds Innovations, Inc. In addition, RD serves on the board of directors for the Mind and Life Institute. This does not alter our adherence to PLOS ONE policies on sharing data and materials.
+Introduction
+The past several decades have seen a remarkable increase in scientific interest in mindfulness-based interventions. Beginning with mindfulness-based stress reduction (MBSR) [
+1
+] which was based largely on Buddhist contemplative practices [
+2
+], numerous mindfulness-based interventions that target a range of psychiatric and medical conditions have been developed and tested (e.g., mindfulness-based cognitive therapy for depression [MBCT], mindfulness-based eating awareness training [MB-EAT] for binge eating, mindfulness training for smokers [MTS] for smoking cessation, mindfulness-oriented recovery enhancement [MORE] for chronic pain and opiate misuse) [
+3
+–
+6
+]. Broadly speaking, there is evidence that these interventions show beneficial effects for both adults and children and across a variety of outcomes [
+7
+–
+9
+].
+Despite promising effects demonstrated in meta-analyses of randomized clinical trials (RCTs), concerns have continually been raised regarding the methodological quality of this body of research. Bishop (2002) [
+10
+] offered some of the earliest criticisms of the research methods employed in studies on mindfulness, noting that claims of efficacy may be overstated. Bishop noted that although MBSR was being widely used clinically for the management of stress associated with chronic illness as well as for treating some psychiatric conditions, the published literature was “rife with methodological problems” (p. 71) [
+10
+]. Bishop highlights a host of concerns including a lack of active comparison groups that allow evaluation of the impact of non-specific benefits (e.g., social support) and controlling for time and attention, a relative absence of follow-up assessment of outcomes, and a lack of measurement of specific threats to validity due to response set biases (e.g., social desirability).
+Many of these concerns were also raised in one of the first meta-analyses in this area. Baer (2003) [
+11
+] included 21 studies in a meta-analysis, reporting the effects of mindfulness-based interventions on chronic pain, Axis I disorders, other mental health disorders, mixed clinical populations, and nonclinical populations, with an overall mean effect weighted by sample size of
+d
+= 0.59. Like Bishop (2002) [
+10
+], Baer (2003) highlighted the limitation of studies that lacked a control condition (i.e., pre-post designs) as well as studies relying on non-active control conditions. Baer (2003) noted that although a treatment-as-usual control will account for change due to the passage of time, an active control is needed to account for the influence of demand characteristics and placebo effects (i.e., non-specific factors). Both Bishop and Baer note the importance of comparing mindfulness interventions to other therapies (e.g., cognitive behavioral therapy). Baer also discussed limitations related to the small size of samples in many of the trials and a lack of evaluation of treatment integrity (i.e., discussion of training and supervision of therapists, assessment of treatment fidelity and adherence).
+Over a decade and hundreds of RCTs later, researchers continue to offer strikingly similar critiques of the mindfulness literature. Davidson and Kaszniak (2015) [
+12
+] emphasize the impossibility of the double-blind placebo-controlled design in mindfulness research and echo calls for both plausible and therapeutic comparison conditions (e.g., health enhancement program [HEP]) [
+13
+]. The authors call for more consistent reporting and evaluation of treatment fidelity, instructor training, and instructor credibility along with the inclusion of intent-to-treat (ITT) analyses. Kuyken and colleagues (2016) [
+14
+] also stressed the importance of assessing the relative advantage of MBCT through comparisons with active control conditions, the reporting of treatment fidelity, and the need for longer follow-up assessment. It is precisely these methodological shortcomings (along with others, such as selective reporting biases) [
+15
+] that continue to raise questions regarding the evidence base for mindfulness interventions [
+16
+].
+Have researchers taken up these suggestions? In the years since Bishop (2002) [
+10
+] and Baer (2003) [
+11
+], is there evidence that the methodological rigor of mindfulness research has improved? The current systematic review sought to address this question empirically. In particular, we examined six methodological features that have been recommended in criticisms of mindfulness research [
+10
+–
+12
+.
+14
+]. These include: (a) active control conditions, (b) larger sample sizes, (c) longer follow-up assessment, (d) treatment fidelity assessment, (e) reporting of instructor training, (f) reporting of ITT samples.
+It is worth briefly describing these six features and their importance. As described below, we graded the strength of the control condition on a five-tier system. We defined specific active control conditions as comparison groups that were intended to be therapeutic [
+17
+]. More rigorous control groups are important as they can provide a test of the unique or added benefit a mindfulness intervention may offer, beyond non-specific benefits associated with the placebo effect, researcher attention, or demand characteristics [
+11
+,
+14
+]. Larger sample sizes are important as they increase the reliability of reported effects and increase statistical power [
+11
+]. Longer follow-up is important for assessing the degree to which treatment effects are maintained beyond the completion of the intervention [
+10
+]. Treatment fidelity assessment allows an examination of the degree to which the given treatment was delivered as intended [
+12
+]. Treatment fidelity is commonly assessed through video or audio recordings of sessions that are coded and/or reviewed by treatment experts [
+18
+]. We coded all references to treatment fidelity assessment (e.g., sessions were recorded and reviewed, a checklist measuring adherence to specific treatment elements was completed). Relatedly, reporting of instructor training increases the likelihood that the treatment that was delivered by qualified individuals [
+12
+], which should, in theory, influence the quality of the treatment provided. Lastly, the reporting of ITT analyses involves including individuals who may have dropped out of the study and/or did not complete their assigned intervention [
+12
+]. Generally speaking, ITT analyses are viewed to be more conservative estimates of treatment effects [
+19
+,
+20
+], and are preferred for this reason.
+As there are now a large number of published RCTs in this area [
+7
+], our review focused on studies using randomized designs. We were interested in the evidence base for mindfulness as a clinical intervention, so we only included samples drawn from clinical populations. Given our interest in exploring the strength of the comparison conditions used (including comparisons with evidence-based treatments [EBTs]) and the psychosocial nature of mindfulness as an intervention, we restricted our sample to disorders listed on the American Psychological Association’s (APA) Division 12 (Society of Clinical Psychology; see Table in
+S1 Table
+) EBTs list [
+21
+]. The use of Division 12’s list also allowed assessment of the extent to which frontline EBTs are being used as comparison groups. Analyses focused on the extent to which the methodological suggestions noted above are being incorporated into the empirical literature over time.
+Method
+Eligibility criteria
+We included all RCTs of mindfulness-based interventions for adult patients with psychiatric diagnoses for which there are evidence-based treatments per the American Psychological Association’s Division 12 (Society of Clinical Psychology; see Table in
+S1 Table
+). To be eligible, samples had to be comprised of participants with either a formal diagnosis or elevated symptoms of a given disorder. Studies conducted in treatment facilities focused on a specific disorder (e.g., substance abuse treatment) were included. Elevated stress levels alone were not considered to reflect a clinical condition.
+To qualify, interventions had to have mindfulness meditation as a core component with home meditation practice as a treatment ingredient. While interventions combining mindfulness with other modalities (e.g., mindfulness and cognitive techniques as in Mindfulness-Based Cognitive Therapy [MBCT]) [
+6
+] were included, therapies emphasizing the attitudinal stance of mindfulness (rather than the formal practice of mindfulness meditation) were excluded (e.g., Acceptance and Commitment Therapy [ACT], Dialectical Behavior Therapy [DBT]) [
+22
+,
+23
+]. Other forms of meditation (e.g., mantram repetition) were excluded. Interventions had to be delivered in real time (i.e., not provided through video instruction) and had to include more than one session (to allow for home meditation practice). Studies were also excluded for the following reasons: (1) not published in English; (2) not a peer-reviewed article; (3) data unavailable to compute standardized effect sizes; (4) no disorder-specific (i.e., targeted) outcomes reported; (5) data redundant with other included studies; (6) no non-mindfulness-based intervention or condition included.
+Information sources
+We searched the following databases: PubMed, PsycInfo, Scopus, Web of Science. In addition, a publicly available comprehensive repository of mindfulness studies was also searched [
+24
+]. Citations from recent meta-analyses and systematic reviews were also included [
+7
+,
+8
+]. Citations were included from the first available date until January 2
+nd
+, 2017.
+Search
+We used the search terms “mindfulness” and “random*”. When a database allowed (e.g., PsycInfo), we restricted our search to clinical trials.
+Study selection
+Titles and/or abstracts of potential studies were independently coded by the first author and a second co-author. Disagreements were discussed with the senior author until consensus was reached.
+Data collection process
+Standardized spreadsheets were developed for coding both study-level and effect size-level data. Coders were trained by the first author through coding an initial sample of studies (
+k
+= 10) in order to achieve reliability. Data were extracted independently by the first author and a second co-author. Disagreements were again discussed with the senior author. Inter-rater reliabilities were in the good to excellent range (i.e.,
+K
+s and
+ICC
+s > .60) [
+25
+].
+Data items
+Along with data necessary for computing standardized effect sizes, the following data were extracted: (1) publication year; (2) disorder; (3) sample demographics (mean age, percentage female, percentage with some college education); (4) country of origin; (5) intent-to-treat (ITT) sample size; (6) length of longest follow-up (i.e., assessments occurring after immediately post-treatment assessment); (7) whether treatment fidelity was assessed; (8) whether the training of instructors was reported; (9) whether an ITT analysis was reported; (10) whether a non-self-report outcome was included; (11) whether the control condition matched treatment time with the mindfulness condition; (12) quality of the control condition. Quality of the control condition was assessed based on a five-tier system. These included: (1) no treatment (in which the control condition received no intervention beyond that which was provided to the treatment condition); (2) minimal treatment (e.g., instruction in management of depressive symptoms through self-monitoring questionnaires); (3) non-specific active control (active conditions in which no mechanism of change or clear rationale for treatment was provided); (4) specific active control (contained specific therapeutic mechanisms, has a theoretical / treatment rationale); (5) evidence-based treatment (EBT). Comparison treatments were coded as EBTs if they were identified by APA Division 12 as an EBT for that particular disorder, or if they were promoted as a first-line treatment by a similarly relevant organization (e.g., smoking cessation treatment promoted by the American Lung Association). When studies included multiple control conditions, the most rigorous was used in analyses on the strength of the control condition.
+Summary measures
+As our study was aimed at addressing whether the methodological rigor of mindfulness research has improved over time, the six key study design features served as our dependent variables with year of publication as
